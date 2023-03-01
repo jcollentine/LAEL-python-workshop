@@ -1,0 +1,15 @@
+The '01 Working' folder has the files to be worked with during the workshop.
+
+The '02 Complete' folder has the results in case you have problems downloading or using Anaconda at the moment. 
+
+---------
+
+What to do before the workshop?
+
+- 1) Participants will need to install (the free) Anaconda suite.
+https://www.anaconda.com/products/individual
+Install the Python 3.7 version
+This gives you a suite of tools for using a debugging with Python, along with NLP tools and libraries.
+
+- 2) Please read this short primer on programming, if you have no programming experience, or want to see the basics of Python.
+http://www.futurelingua.com/pythonintro/index.html
